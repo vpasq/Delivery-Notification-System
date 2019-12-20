@@ -3,7 +3,7 @@
 
 # DeliveryNotificationSystem ([UML Diagram](https://github.com/vpasq/Delivery-Notification-System/blob/master/UML_DeliveryNotificationSystem.pdf)) 
 
-This is a Java Maven Project Template that uses the Observer Pattern.
+This is a Java Maven Project that uses the Observer Pattern.
 - Delivery requests are listed in an auction 
 - Delivery driver subscribers bid on delivery requests
 - Initial notifications are sent out when a delivery request is created 
